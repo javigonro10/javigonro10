@@ -20,7 +20,7 @@ Acceder a Mi Linkedin
 
 
 <div id="header" align="center">
-  <img "https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="200"/>
+  <img <iframe src="https://giphy.com/embed/YW1g39jepet2t5bcSh" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CartoonNetworkLatam-space-brothers-warner-YW1g39jepet2t5bcSh">via GIPHY</a></p> >
 </div>
 
 
