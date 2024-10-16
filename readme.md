@@ -16,7 +16,7 @@ Tecnologías conocidas👨🏻‍💻
 
 Acceder a Mi Linkedin
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/francisco-javier-gonzalez-romero-623766280))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/francisco-javier-gonzalez-romero-623766280)
 
 
 
