@@ -20,7 +20,7 @@ Acceder a Mi Linkedin
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="200"/>
 </div>
 
 
