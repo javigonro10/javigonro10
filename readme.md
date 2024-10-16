@@ -20,7 +20,7 @@ Acceder a Mi Linkedin
 
 
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> >
 </div>
 
 
