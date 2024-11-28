@@ -1,7 +1,5 @@
 Hola 👋 soy Javi✨
 
-@unsimpledev @unsimpledev unsimpledev unsimpledev @unsimpledev
-
 Sobre mi 😃
 
 🎓 DESARRROLLADOR DE APLICACIONES WEB EN PROCESO
